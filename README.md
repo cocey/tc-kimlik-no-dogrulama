@@ -17,6 +17,7 @@ require "suds"
 
 
 <code>
+<pre>
     # -*- coding: utf-8 -*- 
     import suds.metrics as metrics
     from suds import WebFault
@@ -75,4 +76,5 @@ require "suds"
 
     tt = tckn_test()
     tt.test(tckn_input,first_name_input,last_name_input,birth_date_input)
+</pre>
 </code>
